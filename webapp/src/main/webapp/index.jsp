@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** Tomorrow we will start the Docker  **** </h1>   
+         <h1> **** Flipkart Summer Offer Available  **** </h1>   
 	 
 
     </section>    
